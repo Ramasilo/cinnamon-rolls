@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to left, #F6F6F6 0%, #F4E5CB 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, p {
+    text-align: center;
+}
+.cinnamonrolls {
+    max-width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+}
